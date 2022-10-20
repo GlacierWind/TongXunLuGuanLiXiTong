@@ -4,6 +4,6 @@ int main()
 {
 
 
-
+	cout << "" << enld;
 	return 0;
 }
